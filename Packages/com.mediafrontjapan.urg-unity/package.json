@@ -1,15 +1,15 @@
 {
-    "name": "com.mediafrontjapan.scip.unity-inputsystem",
-    "displayName": "SCIP",
+    "name": "com.mediafrontjapan.urg-unity",
+    "displayName": "URG-Unity",
     "version": "0.1.0",
     "unity": "6000.3",
     "license": "MIT",
     "description": "Use the HOKUYO UST-10LX laser scanner as Unity UI and touchscreen input.",
-    "documentationUrl": "https://github.com/MediaFrontJapan/SCIP.Unity-InputSystem/blob/main/Packages/com.mediafrontjapan.scip.unity-inputsystem/README.md",
+    "documentationUrl": "https://github.com/MediaFrontJapan/URG-Unity/blob/main/Packages/com.mediafrontjapan.urg-unity/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/MediaFrontJapan/SCIP.Unity-InputSystem.git",
-        "directory": "Packages/com.mediafrontjapan.scip.unity-inputsystem"
+        "url": "https://github.com/MediaFrontJapan/URG-Unity.git",
+        "directory": "Packages/com.mediafrontjapan.urg-unity"
     },
     "keywords": [
         "HOKUYO",

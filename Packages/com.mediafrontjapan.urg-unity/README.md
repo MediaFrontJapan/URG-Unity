@@ -1,4 +1,4 @@
-# SCIP
+# URG-Unity
 
 - [English](#english)
 - [日本語](#日本語)
@@ -12,7 +12,7 @@ This package lets you use the HOKUYO `UST-10LX` laser scanner as Unity UI input 
 In Unity Package Manager, use `Add package from git URL...` and enter:
 
 ```text
-https://github.com/MediaFrontJapan/SCIP.Unity-InputSystem.git?path=/Packages/com.mediafrontjapan.scip.unity-inputsystem
+https://github.com/MediaFrontJapan/URG-Unity.git?path=/Packages/com.mediafrontjapan.urg-unity
 ```
 
 The package requires these UPM dependencies, which Unity resolves automatically:
@@ -86,7 +86,7 @@ Typical Unity `PlayerPrefs` storage locations are:
 Unity Package Manager の `Add package from git URL...` に次を入力してください。
 
 ```text
-https://github.com/MediaFrontJapan/SCIP.Unity-InputSystem.git?path=/Packages/com.mediafrontjapan.scip.unity-inputsystem
+https://github.com/MediaFrontJapan/URG-Unity.git?path=/Packages/com.mediafrontjapan.urg-unity
 ```
 
 このパッケージは次の UPM 依存を必要とし、Unity が自動解決します。

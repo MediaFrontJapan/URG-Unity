@@ -5,7 +5,7 @@ $projectPath = Join-Path $repoRoot "src/MediaFrontJapan.SCIP/MediaFrontJapan.SCI
 $configuration = "Release"
 $framework = "netstandard2.1"
 $outputDir = Join-Path $repoRoot "src/MediaFrontJapan.SCIP/bin/$configuration/$framework"
-$pluginDir = Join-Path $repoRoot "Packages/com.mediafrontjapan.scip.unity-inputsystem/Runtime/Plugins"
+$pluginDir = Join-Path $repoRoot "Packages/com.mediafrontjapan.urg-unity/Runtime/Plugins"
 $dllName = "MediaFrontJapan.SCIP.dll"
 
 dotnet build $projectPath -c $configuration -nologo

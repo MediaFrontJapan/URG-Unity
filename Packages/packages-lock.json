@@ -1,7 +1,7 @@
 {
     "dependencies":  {
-                         "com.mediafrontjapan.scip.unity-inputsystem":  {
-                                                                            "version":  "file:com.mediafrontjapan.scip.unity-inputsystem",
+                         "com.mediafrontjapan.urg-unity":  {
+                                                                            "version":  "file:com.mediafrontjapan.urg-unity",
                                                                             "depth":  0,
                                                                             "source":  "embedded",
                                                                             "dependencies":  {

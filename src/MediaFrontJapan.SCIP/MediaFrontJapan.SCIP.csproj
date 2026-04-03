@@ -19,22 +19,22 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System.IO.Pipelines">
-      <HintPath>..\..\Packages\com.mediafrontjapan.scip.unity-inputsystem\Runtime\Plugins\System.IO.Pipelines.dll</HintPath>
+      <HintPath>..\..\Packages\com.mediafrontjapan.urg-unity\Runtime\Plugins\System.IO.Pipelines.dll</HintPath>
     </Reference>
     <Reference Include="System.Threading.Channels">
-      <HintPath>..\..\Packages\com.mediafrontjapan.scip.unity-inputsystem\Runtime\Plugins\System.Threading.Channels.dll</HintPath>
+      <HintPath>..\..\Packages\com.mediafrontjapan.urg-unity\Runtime\Plugins\System.Threading.Channels.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Experimental.Collections">
-      <HintPath>..\..\Packages\com.mediafrontjapan.scip.unity-inputsystem\Runtime\Plugins\Microsoft.Experimental.Collections.dll</HintPath>
+      <HintPath>..\..\Packages\com.mediafrontjapan.urg-unity\Runtime\Plugins\Microsoft.Experimental.Collections.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.ObjectPool">
-      <HintPath>..\..\Packages\com.mediafrontjapan.scip.unity-inputsystem\Runtime\Plugins\Microsoft.Extensions.ObjectPool.dll</HintPath>
+      <HintPath>..\..\Packages\com.mediafrontjapan.urg-unity\Runtime\Plugins\Microsoft.Extensions.ObjectPool.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>..\..\Packages\com.mediafrontjapan.scip.unity-inputsystem\Runtime\Plugins\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <HintPath>..\..\Packages\com.mediafrontjapan.urg-unity\Runtime\Plugins\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="ValueTaskSupplement">
-      <HintPath>..\..\Packages\com.mediafrontjapan.scip.unity-inputsystem\Runtime\Plugins\ValueTaskSupplement.dll</HintPath>
+      <HintPath>..\..\Packages\com.mediafrontjapan.urg-unity\Runtime\Plugins\ValueTaskSupplement.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
