@@ -77,6 +77,13 @@ Notes for the calibration UI:
 - Drag calibration depends on `SCIPScanPlane.ScreenToLocalPoint`, which supports `Screen Space Overlay` only.
 - Bundled third-party DLL license notes are listed in `Packages/com.mediafrontjapan.urg-unity/THIRD_PARTY_NOTICES.md`.
 
+### License
+This project is licensed under the MIT License.
+
+When using this package in your applications (especially for commercial use), you are required to include the copyright notice of this software and the bundled third-party libraries in your app's license or credit page.
+
+For bundled third-party libraries, see Packages/com.mediafrontjapan.urg-unity/THIRD_PARTY_NOTICES.md.
+
 ## 日本語
 
 HOKUYO `UST-10LX` を Unity の非接触入力として使うためのリポジトリです。インストール用 UPM パッケージ、同梱 SCIP DLL のソース、そして動作確認用の最小サンプルシーンをまとめています。
@@ -147,3 +154,8 @@ https://github.com/MediaFrontJapan/URG-Unity.git?path=/Packages/com.mediafrontja
 - `SCIPTouchscreenSupport` を使うと、スキャン結果を Input System のタッチデバイスとして扱えます。
 - Input System を経由せず、Unity UI へ直接ポインター入力として流したい場合は `SCIPInputModule` も使えます。
 - ドラッグによるキャリブレーションは `SCIPScanPlane.ScreenToLocalPoint` の制約上、`Screen Space Overlay` のみ対応です。
+
+### ライセンス
+本プロジェクトは MIT ライセンス で公開されています。
+
+本パッケージを自身のプロジェクト（特に商用製品やリリースされるアプリ）で使用する際は、本ソフトウェアの著作権表示および同梱されているサードパーティ製ライブラリのライセンス表記を、アプリ内のクレジット画面やライセンス一覧ページに含める必要があります。
